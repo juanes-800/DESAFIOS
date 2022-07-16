@@ -1,5 +1,5 @@
 
-// se desea realizar un algoritmo donde un niño de primaria pueda conocer  la tabla de multipliacion, las operaciones basicas de la matematica y los colores primarios  en ingles. por consola mostrara la tabla de multplicar que desee, los colores y  la operacion realizada , tambien  demostrara por consola, cuando no esta ingresando un numero bien, un color que no sea  primario o una operacion matematica basica.
+/* Nota : se desea realizar un algoritmo donde un niño de primaria pueda conocer  la tabla de multipliacion, las operaciones basicas de la matematica y los colores primarios  en ingles. por consola mostrara la tabla de multplicar que desee, los colores y  la operacion realizada , tambien  demostrara por consola, cuando no esta ingresando un numero bien, un color que no sea  primario o una operacion matematica basica.*/
 
 function operaciones(operacion){
 
