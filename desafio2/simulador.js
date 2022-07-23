@@ -46,7 +46,7 @@ function coloresPrimarios(color){
     console.log('color' +' '+ color + ' '+ 'en ingles es : yellow' );
 
   } else{
-    console.log('el color' + ' ' + color + ' no es un color primario')
+    console.log('el color' + ' ' + color + ' no es un color primario');
   }
   
 }
