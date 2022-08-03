@@ -36,8 +36,8 @@ for(const producto of productos){
     lista.append(item);
 }
 let busqueda = document.getElementsByTagName("tr");
-console.log(busqueda[0].innerHTML = "<td>juan</td> <td>Alzate</td <td>juanealzate@</td>");
-console.log(busqueda[1].innerText);
+console.log(busqueda[0].innerHTML );
+console.log(busqueda[1].innerHTML = " <tr> <td>juan</td> <td>Alzate</td <td>juanealzate@</td></tr>");
 console.log(busqueda[2].innerHTML);
 console.log(busqueda[3].innerHTML);
 
